@@ -1,2 +1,2 @@
 # Non-Tech
-This repository contains my notes from classes that I thought were interesting but are not tech related
+This repository contains my notes from classes I took that were interesting but are not tech related
