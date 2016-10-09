@@ -7,8 +7,11 @@ These are the correct and incorrect forms for a Deductive Arguement expressed in
 *Modus Ponens*
 
 If P, then Q
+
 P
+
 <----Line of Inference---->
+
 Q
 
 -
@@ -16,8 +19,11 @@ Q
 *Modus Tollens*
 
 If P, then Q
+
 Not Q
+
 <----Line of Inference---->
+
 Not P
 
 -
@@ -25,8 +31,11 @@ Not P
 *Disjunctive Syllogism*
 
 Either P or Q
+
 Not P
+
 <----Line of Inference---->
+
 Q
 
 -
@@ -34,8 +43,11 @@ Q
 *Hypothetical Syllogism*
 
 If P, then Q
+
 If Q, then R
+
 <----Line of Inference---->
+
 If P, then R
 
 -
@@ -43,7 +55,9 @@ If P, then R
 *Contraposition*
 
 If P, then Q
+
 <----Line of Inference---->
+
 If not Q then not P
 
 ***
@@ -53,8 +67,11 @@ If not Q then not P
 *Affirming the Consequent*
 
 If P, then Q
+
 Q
+
 <----Line of Inference---->
+
 P
 
 -
@@ -62,8 +79,11 @@ P
 *Denying the Antecedent*
 
 If P, then Q
+
 Not P
+
 <----Line of Inference---->
+
 Not Q
 
 -
@@ -71,8 +91,11 @@ Not Q
 *Dysfunctional Syllogism*
 
 Either P or Q
+
 Q
+
 <----Line of Inference---->
+
 Not P
 
 -
@@ -80,8 +103,11 @@ Not P
 *Illegitimate Syllogism*
 
 If P, then Q
+
 If R, then Q
+
 <----Line of Inference---->
+
 If P, then R
 
 -
@@ -89,5 +115,7 @@ If P, then R
 *Conversion*
 
 If P, then Q
+
 <----Line of Inference---->
+
 If Q, then P
