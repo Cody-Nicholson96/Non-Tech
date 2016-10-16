@@ -26,7 +26,7 @@ A Deductive Argument is Sound if it's premises are all true and it is valid
 ###Inductive Arguments
 -
 
-An argument where the conclusion probably follows the from the premise
+An argument where the conclusion probably follows the premise
 
 Example:
 
