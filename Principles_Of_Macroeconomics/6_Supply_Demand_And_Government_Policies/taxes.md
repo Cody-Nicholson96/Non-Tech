@@ -12,11 +12,11 @@ A **tax incidence** is the manner in which the burden of a tax is shared among p
 
 2. Since the tax on sellers raises the cost of producing and selling, it reduces the quantity supplied at every price. The supply curve shifts to the left (or upwards, equivalently).
 
-3. Having determined how the supply curve shifts, we can now compare the initial and the new equilibirums. Tax reduces the size of the market since sellers sell less and buyers buy less.
+3. Having determined how the supply curve shifts, we can now compare the initial and the new equilibriums. Tax reduces the size of the market since sellers sell less and buyers buy less.
 
 - Taxes discourage market activity. When a good is taxed, the quantity of the good sold is smaller in the new equilibrium.
 
-- Buyers and sellers share the burden of taxes. In the new equilibirum, buyers pay more for goods and sellers receive less.
+- Buyers and sellers share the burden of taxes. In the new equilibrium, buyers pay more for goods and sellers receive less.
 
 ***
 
@@ -26,7 +26,7 @@ A **tax incidence** is the manner in which the burden of a tax is shared among p
 
 2. We next determine the direction of the shift. Because the tax on buyers makes buying less attractive, buyer demand a smaller quantity of the product at every price. As a result, the demand curve shifts to the left (of equivalently downward).
 
-3. Having determined how the demand curve shifts, we can now see the effect of the tax by comparing the initial equilibrium and the new equalibrium
+3. Having determined how the demand curve shifts, we can now see the effect of the tax by comparing the initial equilibrium and the new equilibrium
 
 - Taxes levied on sellers and taxes levied on buyers are equivalent
 
