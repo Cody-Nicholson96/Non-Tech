@@ -18,15 +18,15 @@ If the price of goods and services are different from year to year then we accou
 
 ***
 
-###The GDP Deflater
+###The GDP Deflator
 
 a measure of the price level calculated as the ratio of nominal GDP to real GDP times 100
 
-GDP Deflater = (Nominal GDP/Real GDP) * 100
+GDP Deflator = (Nominal GDP/Real GDP) * 100
 
 Since Nominal GDP and Real GDP are always the same in a given base year, the GDP Deflator for a base year is always 100
 
-Economists use the term **infaltion** to describe a situation in which the economy's overall price level is rising
+Economists use the term **inflation** to describe a situation in which the economy's overall price level is rising
 
 The **inflation rate** is the percentage change in some measure of the price level from one period to the next
 
