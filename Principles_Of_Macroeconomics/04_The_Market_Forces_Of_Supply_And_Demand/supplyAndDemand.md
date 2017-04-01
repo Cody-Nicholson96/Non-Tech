@@ -1,4 +1,4 @@
-#Supply And Demand
+# Supply And Demand
 
 **Supply & Demand** are the forces that make market economies work, they determine the quantity of each good produced, and the price at which it is sold
 

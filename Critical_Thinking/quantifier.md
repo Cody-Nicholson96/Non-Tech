@@ -1,6 +1,6 @@
-#Quantifier
+# Quantifier
 
-Expressions used in generalisations
+Expressions used in generalizations
 
 Example:
 

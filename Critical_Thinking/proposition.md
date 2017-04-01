@@ -1,5 +1,5 @@
-#Proposition
+# Proposition
 
-The meaning of a declaritive sentence
+The meaning of a declarative sentence
 
-A declaritive sentence is a sentence that declares something or makes a statement
+A declarative sentence is a sentence that declares something or makes a statement

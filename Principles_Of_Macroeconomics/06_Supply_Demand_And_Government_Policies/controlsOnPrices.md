@@ -1,4 +1,4 @@
-#Controls On Prices
+# Controls On Prices
 
 A **price ceiling** is a legal maximum on the price which a good can be sold
 

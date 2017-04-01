@@ -1,6 +1,6 @@
-#Principle 6: Markets Are Usually Good At Organizing Economic Activity
+# Principle 6: Markets Are Usually Good At Organizing Economic Activity
 
-In a **Market Economy** the decisions of a centrral power are replaced by the decisions of millions of firms and households
+In a **Market Economy** the decisions of a central power are replaced by the decisions of millions of firms and households
 
 Firms decide what to make and who to hire
 

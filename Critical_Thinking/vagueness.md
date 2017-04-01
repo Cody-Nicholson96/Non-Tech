@@ -1,4 +1,4 @@
-#Vagueness
+# Vagueness
 
 An expression is vague for one of two reasons:
 

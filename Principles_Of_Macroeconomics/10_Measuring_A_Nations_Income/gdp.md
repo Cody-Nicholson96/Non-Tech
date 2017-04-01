@@ -1,4 +1,4 @@
-#Gross Domestic Product (GDP)
+# Gross Domestic Product (GDP)
 
 **GDP** is the total income of a nation
 

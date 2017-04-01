@@ -1,4 +1,4 @@
-#Economics
+# Economics
 
 **Economics** is the study of how society manages its *scarce* resources
 
@@ -8,4 +8,4 @@ Economists also study how people interact with each other - like how buyers and 
 
 Finally, Economists analyze forces and trends that affect the economy as a whole, including the growth in average income, the fraction of the population that cannot find work, and the rate at which prices are rising
 
-Economics has many facets, but it is unified by serveral ideas, namely: **The Ten Principles of Economics**
+Economics has many facets, but it is unified by several ideas, namely: **The Ten Principles of Economics**

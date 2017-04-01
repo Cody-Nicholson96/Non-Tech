@@ -1,4 +1,4 @@
-#Economy Word Origin
+# Economy Word Origin
 
 Economy means "one who manages a household" - households and economics have lots in common
 

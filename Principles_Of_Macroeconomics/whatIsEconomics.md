@@ -1,10 +1,10 @@
-#What Is Economics?
+# What Is Economics?
 
 **Economics** is the study of how society manages its scarce resources
 
 1. Making decisions
 
-2. Uderstanding other's decisions
+2. Understanding other's decisions
 
 3. Accounting for external forces
 
@@ -14,7 +14,7 @@ Economics is not about making money - that is what business is about - Economics
 
 ***
 
-####A household and an economy face many decisions:
+#### A household and an economy face many decisions:
 
 - Who will work?
 
@@ -26,7 +26,7 @@ Economics is not about making money - that is what business is about - Economics
 
 ***
 
-####Society and Scarce Resources
+#### Society and Scarce Resources
 
 - The management of society's resources is important because **resources are scarce**
 
@@ -34,9 +34,9 @@ Economics is not about making money - that is what business is about - Economics
 
 ***
 
-###How people make decisions
+### How people make decisions
 
-- people face radeoffs
+- people face trade-offs
 
 - The cost of something is what you give up to get it
 
@@ -46,7 +46,7 @@ Economics is not about making money - that is what business is about - Economics
 
 -
 
-###How people interact with each other
+### How people interact with each other
 
 - Trade can make everyone better off
 
@@ -56,10 +56,10 @@ Economics is not about making money - that is what business is about - Economics
 
 -
 
-###The forces and trends that affect how the economy as a whole works
+### The forces and trends that affect how the economy as a whole works
 
 - The standard of living depends on a country's production
 
 - Prices rise when the government prints too much money
 
-- Society faces a short-run tradeoff between inflation and unemployment
+- Society faces a short-run trade-off between inflation and unemployment

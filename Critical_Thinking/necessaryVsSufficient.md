@@ -1,4 +1,4 @@
-#Necessary Vs Sufficient
+# Necessary Vs Sufficient
 
 Necessary means that it **must** have it
 
@@ -24,4 +24,4 @@ Communicating a falsehood is a **necessary** condition for telling a lie
 
 Being exactly divisible by 4 is a **sufficient** condition for a number to be even
 
-Being a planar figure with four sides of equal length and four angles adding up to 360 degrees is a **necessary** AND **suficient** condition for being a square (Because this is an explaination)
+Being a planar figure with four sides of equal length and four angles adding up to 360 degrees is a **necessary** AND **sufficient** condition for being a square (Because this is an explanation)

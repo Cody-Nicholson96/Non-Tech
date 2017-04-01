@@ -1,4 +1,4 @@
-#Bible
+# Bible
 
 The Bible is the story of God's relationship with Israel (The **Old Testament**)
 

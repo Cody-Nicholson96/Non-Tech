@@ -1,4 +1,4 @@
-#How Fiscal Policy Influences Aggregate Demand
+# How Fiscal Policy Influences Aggregate Demand
 
 **Fiscal Policy** is the setting of the level of government spending and taxation by government policymakers
 

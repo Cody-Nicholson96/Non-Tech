@@ -1,4 +1,4 @@
-#Principle 3: Rational People Think At The Margin
+# Principle 3: Rational People Think At The Margin
 
 **Rational People** are people who systematically and purposefully do the best they can to achieve their objectives
 

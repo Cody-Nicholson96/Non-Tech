@@ -1,6 +1,6 @@
-#Three Key Facts About Economic Fluctuations
+# Three Key Facts About Economic Fluctuations
 
-###One: Economic Fluctuations Are Irregular & Unpredictable
+### One: Economic Fluctuations Are Irregular & Unpredictable
 
 Fluctuations in the economy are often called the **business cycle**
 
@@ -12,7 +12,7 @@ When Real GDP falls during periods of recession, businesses have trouble. During
 
 ***
 
-###Two: Most Macroeconomic Quantities  Fluctuate Together
+### Two: Most Macroeconomic Quantities  Fluctuate Together
 
 Most Macroeconomic Quantities  Fluctuate Together, but they fluctuate by different amounts
 
@@ -20,7 +20,7 @@ When economic conditions deteriorate, much of the decline is attributable to red
 
 ***
 
-###Three: As Outputs Falls, Unemployment Rises
+### Three: As Outputs Falls, Unemployment Rises
 
 Changes in the economy's output of goods and services are strongly correlated with changes in the economy's utilization of its labor force
 

@@ -1,4 +1,4 @@
-#The Church & Bishops
+# The Church & Bishops
 
 The Church teaches us about Jesus, and through Jesus we can begin to understand God
 

@@ -1,46 +1,46 @@
-#Economic Growth & Public Policy
+# Economic Growth & Public Policy
 
 What can the government do to raise productivity and living standards?
 
 ***
 
-###Investments From Abroad
+### Investments From Abroad
 
 g
 
 -
 
-###Education
+### Education
 
 f
 
 -
 
-###Health & Nutrition
+### Health & Nutrition
 
 e
 
 -
 
-###Property Rights & Political Stability
+### Property Rights & Political Stability
 
 d
 
 -
 
-###Free Trade
+### Free Trade
 
 c
 
 -
 
-###Research & Development
+### Research & Development
 
 b
 
 -
 
-###Population Growth
+### Population Growth
 
 a
 

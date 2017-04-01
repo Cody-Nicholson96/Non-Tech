@@ -1,6 +1,6 @@
-#Connotation
+# Connotation
 
-###Primary Connotation
+### Primary Connotation
 -
 
 The condition that is sufficient and necessary for something to be a member of the extension of a term
@@ -11,10 +11,10 @@ If the phrase is "mink coat", the primary connotation is "Coat made from the fur
 
 ***
 
-###Secondary Connotation
+### Secondary Connotation
 -
 
-The range of furthur attributes that a thing is commonly assumed to possess
+The range of further attributes that a thing is commonly assumed to possess
 
 Example:
 

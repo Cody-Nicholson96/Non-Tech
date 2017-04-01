@@ -1,4 +1,4 @@
-#Generalisation
+# Generalization
 
 A proposition concerning a class of things involving a quantifier
 
@@ -8,10 +8,10 @@ Example:
 
 ***
 
-###Gerneralisations can be hard or soft
+### Generalizations can be hard or soft
 -
 
-Hard generalisations can be conveyed by using a quantifier-word like 'all', 'no', or 'every'
+Hard generalizations can be conveyed by using a quantifier-word like 'all', 'no', or 'every'
 
 For example:
 
@@ -19,6 +19,6 @@ Someone at a meeting of Parliament might say, 'Every single MP in this chamber t
 
 -
 
-Soft Generalisations are very often expressed without any quantifier at all, as in 'Children like sweeties'
+Soft Generalizations are very often expressed without any quantifier at all, as in 'Children like sweeties'
 
-Other times, we add a quantifier such as 'most', or 'almost all' to a soft generalisation, in order to make it clear that a soft generalisation is what is intended, and also to make it clear just how soft (or how close to being hard) it is meant to be
+Other times, we add a quantifier such as 'most', or 'almost all' to a soft generalization, in order to make it clear that a soft generalization is what is intended, and also to make it clear just how soft (or how close to being hard) it is meant to be

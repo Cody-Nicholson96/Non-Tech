@@ -1,4 +1,4 @@
-#Principle 1: People Face Tradeoffs
+# Principle 1: People Face Tradeoffs
 
 "There is no such thing as free lunch"
 
@@ -6,7 +6,7 @@ To get something you want you always have to give up something. It could be time
 
 ***
 
-###Equality Vs Efficiency
+### Equality Vs Efficiency
 
 A tradeoff society faces is between Equality and Efficiency
 

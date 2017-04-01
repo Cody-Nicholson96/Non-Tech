@@ -1,4 +1,4 @@
-#The Fed's Tools of Monetary Control
+# The Fed's Tools of Monetary Control
 
 **Open-market operations** are the purchase and sale of US government bonds by the Fed
 

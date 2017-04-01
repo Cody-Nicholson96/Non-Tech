@@ -1,4 +1,4 @@
-#Taxes
+# Taxes
 
 All governments use taxes to raise revenue for public projects
 
@@ -6,7 +6,7 @@ A **tax incidence** is the manner in which the burden of a tax is shared among p
 
 ***
 
-###How Taxes On Sellers Affect Market Outcomes
+### How Taxes On Sellers Affect Market Outcomes
 
 1. The immediate impact of tax is on the sellers of a product. Since the tax is not levied on buyers, the quantity demanded at any given price is the same, thus the demand curve does not change. The tax on sellers makes the business less profitable at any given price, so it shifts the supply curve.
 
@@ -20,7 +20,7 @@ A **tax incidence** is the manner in which the burden of a tax is shared among p
 
 ***
 
-###How Taxes On Buyers Affect Market Outcomes
+### How Taxes On Buyers Affect Market Outcomes
 
 1. The initial impact is on the demand. The supply curve is not affected because for any given price sellers have the same incentive to provide to the market. By contrast, buyers now have to pay a tax to the government (as well as the price to the sellers) whenever they buy the product. Thus, the tax shifts the demand curve for the item
 
@@ -32,7 +32,7 @@ A **tax incidence** is the manner in which the burden of a tax is shared among p
 
 ***
 
-###Elasticity And Tax Incidence
+### Elasticity And Tax Incidence
 
 A tax burden falls more heavily on the side of the market that is less elastic
 

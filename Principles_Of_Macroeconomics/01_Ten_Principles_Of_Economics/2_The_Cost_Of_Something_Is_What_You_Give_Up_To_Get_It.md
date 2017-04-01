@@ -1,4 +1,4 @@
-#Principle 2: The Cost Of Something Is What You Give Up To Get It
+# Principle 2: The Cost Of Something Is What You Give Up To Get It
 
 What you give up to get something doesn't always have to be money - it can be time, energy, etc
 

@@ -1,4 +1,4 @@
-#How Monetary Policy Influences Aggregate Demand
+# How Monetary Policy Influences Aggregate Demand
 
 **The wealth effect**: A lower price level raises the real value of households' money holdings, which are part of their wealth. Higher wealth stimulates consumer spending and thus increases the quantity of goods and services demanded.
 

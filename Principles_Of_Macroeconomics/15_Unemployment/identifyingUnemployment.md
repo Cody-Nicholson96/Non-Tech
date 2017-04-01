@@ -1,4 +1,4 @@
-#Identifying Unemployment
+# Identifying Unemployment
 
 **Employed**: People who work as paid employees, worked in their own business, worked as unpaid by a family business. Full-time and part-time count. People who are temporarily absent from sickness/vacation/etc count as employed.
 

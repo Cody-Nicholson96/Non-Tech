@@ -1,10 +1,10 @@
-#Consumer Price Index (CPI)
+# Consumer Price Index (CPI)
 
 a measure of the overall cost of the goods and services bought by a typical customer
 
 ***
 
-###How the CPI is Calculated
+### How the CPI is Calculated
 
 1. Fix the basket
 
@@ -30,13 +30,13 @@ Inflation tare in year 2 = ((CPI in year 2 - CPI in year 1)/CPI in year 1) * 100
 
 -
 
-###Producer Price Index (PPI)
+### Producer Price Index (PPI)
 
 a measure of the cost of a basket of goods and services bought by firms
 
 ***
 
-###Problems in Measuring the Cost of Living
+### Problems in Measuring the Cost of Living
 
 1. Substitution Bias
 
@@ -55,4 +55,3 @@ If the basket gets more items, then consumers will buy those instead of other it
 3. Unmeasured quality change
 
 If the quality of goods deteriorates from one year to the next while its price remains the same, the value of a dollar falls because you are getting a lesser good for the same amount of money
-

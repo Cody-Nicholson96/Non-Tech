@@ -1,4 +1,4 @@
-#Sacraments
+# Sacraments
 
 **Sacraments** are actions/materials that connect Christians to Jesus' life
 

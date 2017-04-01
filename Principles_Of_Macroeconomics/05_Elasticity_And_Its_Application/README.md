@@ -1,4 +1,4 @@
-#Chapter 4: Elasticity And Its Application
+# Chapter 4: Elasticity And Its Application
 
 **Elasticity** is the measure of how much buyers and sellers respond to changes in market conditions
 

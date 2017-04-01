@@ -1,4 +1,4 @@
-#The Classical Theory Of Inflation
+# The Classical Theory Of Inflation
 
 **Quantity theory of money** is a theory asserting that the quantity of money available determines the price level and that the growth rate in the quantity of money available determines the inflation rate
 

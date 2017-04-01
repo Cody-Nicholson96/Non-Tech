@@ -1,8 +1,8 @@
-#Deductive Argument Forms and Invalid Forms
+# Deductive Argument Forms and Invalid Forms
 
-These are the correct and incorrect forms for a Deductive Arguement expressed in Standard Form
+These are the correct and incorrect forms for a Deductive Argument expressed in Standard Form
 
-###Correct Forms
+### Correct Forms
 
 *Modus Ponens*
 
@@ -62,7 +62,7 @@ If not Q then not P
 
 ***
 
-###Invalid Forms
+### Invalid Forms
 
 *Affirming the Consequent*
 

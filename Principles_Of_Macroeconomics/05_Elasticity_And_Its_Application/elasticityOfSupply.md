@@ -1,4 +1,4 @@
-#Elasticity Of Supply
+# Elasticity Of Supply
 
 The **supply of a good is said to be elastic** if the quantity supplied responds substantially to changes in the price
 
@@ -10,7 +10,7 @@ The **price elasticity of supply** is a measure of how much the quantity supplie
 
 -
 
-###The Variety Of Supply Change
+### The Variety Of Supply Change
 
 The supply is **perfectly inelastic** (The supply currve is vertical) if the quantity supplied is the same regardless of the price
 

@@ -1,6 +1,6 @@
-#Ambiguity
+# Ambiguity
 
-###Lexical Ambiguity
+### Lexical Ambiguity
 -
 
 When a statement could have multiple meaning bases on the words used
@@ -11,7 +11,7 @@ Example:
 
 -
 
-###Syntactical Ambiguity
+### Syntactical Ambiguity
 -
 
 A sentence is Syntactically Ambiguous when the scope of the sentence is undefined

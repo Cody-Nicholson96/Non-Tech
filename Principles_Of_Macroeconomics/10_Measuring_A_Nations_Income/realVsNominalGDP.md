@@ -1,4 +1,4 @@
-#Real Vs Nominal GDP
+# Real Vs Nominal GDP
 
 **Real GDP** is the production of goods and services valued at *constant* prices
 
@@ -14,24 +14,24 @@ If the price of goods and services are different from year to year then we accou
 
 -
 
-#####Nominal GDP uses current prices to place a value on the economy's production of goods and services. Real GDP uses constant base-year prices to place a value on the economy's production of goods and services.
+##### Nominal GDP uses current prices to place a value on the economy's production of goods and services. Real GDP uses constant base-year prices to place a value on the economy's production of goods and services.
 
 ***
 
-###The GDP Deflator
+### The GDP Deflater
 
 a measure of the price level calculated as the ratio of nominal GDP to real GDP times 100
 
-GDP Deflator = (Nominal GDP/Real GDP) * 100
+GDP Deflater = (Nominal GDP/Real GDP) * 100
 
-Since Nominal GDP and Real GDP are always the same in a given base year, the GDP Deflator for a base year is always 100
+Since Nominal GDP and Real GDP are always the same in a given base year, the GDP Deflater for a base year is always 100
 
 Economists use the term **inflation** to describe a situation in which the economy's overall price level is rising
 
 The **inflation rate** is the percentage change in some measure of the price level from one period to the next
 
-We can use the GDP deflator to calculate the inflation rate between two consecutive years is computed as follows:
+We can use the GDP deflater to calculate the inflation rate between two consecutive years is computed as follows:
 
-Inflation rate in two years = ((GDP Deflator in year 2 - GDP Deflator in year 1) / GDP Deflator in year 1) * 100
+Inflation rate in two years = ((GDP Deflater in year 2 - GDP Deflater in year 1) / GDP Deflater in year 1) * 100
 
 When GDP declines it is called a **recession**

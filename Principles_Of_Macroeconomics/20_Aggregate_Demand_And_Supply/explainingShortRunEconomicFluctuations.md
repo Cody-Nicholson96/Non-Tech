@@ -1,16 +1,16 @@
-#Explaining Short-Run Economic Fluctuations
+# Explaining Short-Run Economic Fluctuations
 
 Most economists believe that classical theory describes the world in the long run but not in the short run
 
 ***
 
-###The Assumptions Of Classical Economic Fluctuations
+### The Assumptions Of Classical Economic Fluctuations
 
 The classical view is sometimes described as "Money is a veil". That is, nominal variables may be the first things we see when we observe an economy because economic variables are often expressed in units of money. But what's important are the real variables and the economic forces that determine them. According to the classical theory, to understand these real variables, we need to look behind the veil.
 
 -
 
-###The Reality Of Short-Run Fluctuations
+### The Reality Of Short-Run Fluctuations
 
 Most economists believe that classical theory describes the world in the long run but not in the short run
 

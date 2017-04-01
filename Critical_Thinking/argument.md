@@ -1,4 +1,4 @@
-#Argument
+# Argument
 
 A system of propositions comprising one or more premises in support of a conclusion
 
@@ -6,7 +6,7 @@ In logic, an argument requires a set of (at least) two declarative sentences (or
 
 ***
 
-###Standard Form of an Argument
+### Standard Form of an Argument
 -
 
 Proposition 1)

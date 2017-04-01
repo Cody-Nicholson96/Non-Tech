@@ -1,2 +1,2 @@
-#Be A Leader - How To Change People Without Givine Offence Or Arousing Resentment
+# Be A Leader - How To Change People Without Giving Offense Or Arousing Resentment
 

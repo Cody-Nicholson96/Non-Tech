@@ -1,4 +1,4 @@
-#Principle 4: People Respond To Incentives
+# Principle 4: People Respond To Incentives
 
 And **incentive** is something that induces a person to act
 

@@ -1,4 +1,4 @@
-#How to Analyze an Attempt to Persuade
+# How to Analyze an Attempt to Persuade
 
 1. Identify the issue being discussed and determine whether the or not the writer or speaker is attempting to persuade by means of an argument
 

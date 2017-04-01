@@ -1,4 +1,4 @@
-#Mary & Saints
+# Mary & Saints
 
 **Mary** and **Saints** are examples of proper interpretations of Jesus, and of Catholicism as a whole
 

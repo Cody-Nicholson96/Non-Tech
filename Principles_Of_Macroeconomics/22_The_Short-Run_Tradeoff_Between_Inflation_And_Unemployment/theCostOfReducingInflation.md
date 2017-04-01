@@ -1,4 +1,4 @@
-#The Cost Of Reducing Inflation
+# The Cost Of Reducing Inflation
 
 The **Sacrifice Ratio** is the number of percentage points of annual output lost in the process of reducing inflation by 1 percentage point
 

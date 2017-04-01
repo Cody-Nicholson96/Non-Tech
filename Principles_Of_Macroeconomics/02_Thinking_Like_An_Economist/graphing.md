@@ -1,4 +1,4 @@
-#Graphing
+# Graphing
 
 **Graphs** offer a way to visually express ideas that might be less clear if described with equations or words, and they provide a powerful way of finding and interpreting patterns
 
@@ -6,7 +6,7 @@ An effective Economist chooses the type of graph that best suits the purpose at 
 
 ***
 
-###Graphs of a single variable
+### Graphs of a single variable
 
 Graphs that represent a single variable are useful for showing how a variable changes over time or across individuals, but they are limited in how much they can tell us
 
@@ -14,7 +14,7 @@ Pie chart, Bar graph, Time-series graph
 
 ***
 
-###Graphs Of Two Variables: The Coordinate System
+### Graphs Of Two Variables: The Coordinate System
 
 Economists are often concerned with the relationship between two variables, so they need to display two variables on one graph
 

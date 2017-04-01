@@ -1,4 +1,4 @@
-#Macroeconomics Vs Microeconomics
+# Macroeconomics Vs Microeconomics
 
 **Macroeconomics** is the study of economy-wide phenomena including inflation, unemployment, and economic growth
 

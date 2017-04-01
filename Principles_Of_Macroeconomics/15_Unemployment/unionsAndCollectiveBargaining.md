@@ -1,4 +1,4 @@
-#Unions & Collective Bargaining
+# Unions & Collective Bargaining
 
 A **Union** is a worker association that bargains with employers over wages, benefits, and working conditions
 

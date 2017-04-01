@@ -1,4 +1,4 @@
-#Principle 10: Society Faces A Short-Run Tradeoff Between Inflation And Unemployment
+# Principle 10: Society Faces A Short-Run Tradeoff Between Inflation And Unemployment
 
 - Increasing the amount of money in the economy stimulates the overall level of spending and thus the demand for goods and services
 

@@ -1,1 +1,1 @@
-#Fudamental Techniques in Handling People
+# Fundamental Techniques in Handling People

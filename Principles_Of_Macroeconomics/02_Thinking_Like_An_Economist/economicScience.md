@@ -1,4 +1,4 @@
-#Economic Science
+# Economic Science
 
 Economists are scientists studying how we allocate our scarce resources, and like scientists Economists use the **scientific method**
 
@@ -18,7 +18,7 @@ Assumptions are very important in the creation of economic models
 
 -
 
-###Economic Models
+### Economic Models
 
 Economists create models to simplify reality to improve our understanding of it
 

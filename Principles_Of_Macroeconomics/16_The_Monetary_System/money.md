@@ -1,4 +1,4 @@
-#Money
+# Money
 
 **Money** is the set of assets in an economy that people regularly use to buy goods and services from other people
 
@@ -10,7 +10,7 @@
 
 ***
 
-###Kinds of Money
+### Kinds of Money
 
 **Commodity money** is money that takes the form of a commodity with intrinsic value
 
@@ -18,7 +18,7 @@
 
 ***
 
-###Money in the US economy
+### Money in the US economy
 
 **Currency** the paper bills and coins in the hands of the public
 

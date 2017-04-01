@@ -1,4 +1,4 @@
-#Starting Conversations
+# Starting Conversations
 
 There are three things you need when starting a conversations:
 
@@ -6,7 +6,7 @@ You need to **be curious**, you need to **pay attention**, you need to **activel
 
 ***
 
-###Be Curious
+### Be Curious
 
 By being curious you can provide your conversation with an endless source of material since you will be asking questions and providing more to talk about
 
@@ -14,7 +14,7 @@ This wraps into the second skill, paying attention
 
 -
 
-###Paying Attention
+### Paying Attention
 
 Paying attention gives you the opportunity to be curious because if you are paying attention you will have questions about the subjects being discussed
 
@@ -22,7 +22,7 @@ Paying attention gives you the opportunity to be curious because if you are payi
 
 -
 
-####Focus
+#### Focus
 
 If you are paying attention and you are curious then you are being present in the conversation, in other words: you are **focused**
 
@@ -30,7 +30,7 @@ Focusing on the conversation will get you out of your own head and will allow yo
 
 -
 
-####Starting The Conversation
+#### Starting The Conversation
 
 By being focused doors will open for you to start a conversation
 
@@ -38,7 +38,7 @@ Maybe you will notice a class ring, or a shirt, or something eye catching that y
 
 -
 
-###Actively Listening
+### Actively Listening
 
 Once you are engaged in the conversation **active listening** isn't just about hearing, it's about focusing and investing yourself in what they are saying so that you can get outside of your own head
 

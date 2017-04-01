@@ -1,10 +1,10 @@
-#Deductive Arguments and Inductivve Arguments
+# Deductive Arguments and Inductive Arguments
 
 Two different ways to make an inference
 
 ***
 
-###Deductive Arguments
+### Deductive Arguments
 -
 
 An argument that makes it so that the conclusion **has to** follow the premise
@@ -23,7 +23,7 @@ A Deductive Argument is Sound if it's premises are all true and it is valid
 
 ***
 
-###Inductive Arguments
+### Inductive Arguments
 -
 
 An argument where the conclusion probably follows the premise
@@ -36,7 +36,7 @@ Example:
 
 An Inductive Argument is Forceful if its premises are true the but its conclusion is false
 
-An Inductive Argument is Sound if it's premises are all true and it is inductivly forceful
+An Inductive Argument is Sound if it's premises are all true and it is inductively forceful
 
 If an Inductive Argument is sound then has **Inductive Cogency**
 

@@ -1,4 +1,4 @@
-#Recession
+# Recession
 
 A **recession** is a period of declining real incomes and rising unemployment
 

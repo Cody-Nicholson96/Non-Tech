@@ -1,6 +1,6 @@
-#Banks & The Money Supply
+# Banks & The Money Supply
 
-**Reserves** are deposits that banks have recieved but have not loaned out
+**Reserves** are deposits that banks have received but have not loaned out
 
 **Fractional-reserve banking** is a banking system in which banks hold only a fraction of deposits as reserves
 

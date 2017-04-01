@@ -1,4 +1,4 @@
-#Model Of Aggregate Demand & Aggregate Supply
+# Model Of Aggregate Demand & Aggregate Supply
 
 Most economists use the **Model Of Aggregate Demand & Aggregate Supply** to analyze short-run fluctuations
 

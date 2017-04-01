@@ -1,4 +1,4 @@
-#Competitive Market
+# Competitive Market
 
 A **Market** is a group of buyers and sellers of a particular good or service
 

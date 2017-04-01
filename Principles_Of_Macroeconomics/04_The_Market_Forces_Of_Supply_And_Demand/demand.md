@@ -1,4 +1,4 @@
-#Demand
+# Demand
 
 The **Quantity Demanded** is the amount of a good that buyers are willing and able to purchase
 
@@ -20,4 +20,4 @@ When a fall in the price of one good reduces the demand for another good, the tw
 
 When a fall in the price of one good raises demand for another good, the two goods are called **complements** (gasoline and cars, computers and software, peanut butter and jelly)
 
-####The demand curve shows what happens to the quantity demanded of a good when its price caries, holding constant all other variables the influence buyers
+#### The demand curve shows what happens to the quantity demanded of a good when its price caries, holding constant all other variables the influence buyers
